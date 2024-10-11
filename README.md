@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tafadzwa Dube
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter with Dart
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Reactjs and Flutter Projects
 - 📫 How to reach me just email at tafadzwa.dube67@gmail.com
 
